@@ -1,0 +1,16 @@
+C:\Users\Juandi\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\AutomationTest.exe
+C:\Users\Juandi\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\AutomationTest.deps.json
+C:\Users\Juandi\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\AutomationTest.runtimeconfig.json
+C:\Users\Juandi\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\AutomationTest.runtimeconfig.dev.json
+C:\Users\Juandi\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\AutomationTest.dll
+C:\Users\Juandi\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\AutomationTest.pdb
+C:\Users\Juandi\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Juandi\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Juandi\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\AutomationTest.csprojAssemblyReference.cache
+C:\Users\Juandi\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\AutomationTest.AssemblyInfoInputs.cache
+C:\Users\Juandi\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\AutomationTest.AssemblyInfo.cs
+C:\Users\Juandi\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\AutomationTest.csproj.CoreCompileInputs.cache
+C:\Users\Juandi\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\AutomationTest.csproj.CopyComplete
+C:\Users\Juandi\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\AutomationTest.dll
+C:\Users\Juandi\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\AutomationTest.pdb
+C:\Users\Juandi\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\AutomationTest.genruntimeconfig.cache
